@@ -46,9 +46,9 @@ As this was just a small component this project it's finished as it is. Although
 
 ### Useful resources
 
--https://fonts.google.com/specimen/Figtree
--https://www.figma.com/
--https://getbem.com/
+- https://fonts.google.com/specimen/Figtree
+- https://www.figma.com/
+- https://getbem.com/
 
 ## Author
 
