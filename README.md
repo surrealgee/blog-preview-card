@@ -17,30 +17,38 @@
 
 ### Screenshot
 
-![]() **_Pending_**
+![](./solution-screenshot.png)
 
 ### Links
 
-- Solution URL: **_Pending_**
-- Live Site URL: **_Pending_**
+- Solution URL: https://github.com/surrealgee/blog-preview-card
+- Live Site URL: https://surrealgee.github.io/blog-preview-card/
 
 ## My process
 
 ### Built with
 
-**_Pending_**
+HTML
+CSS
+BEM
 
 ### What I learned
 
-T**_Pending_**
+I decided to use BEM for the first time. I think it's a really useful methodology.
+
+I liked it because I don't have to struggle thinking about class names anymore, at leat for this small projects.
+
+I would like to see how it will help me in the future when I work on bigger projects.
 
 ### Continued development
 
-**_Pending_**
+As this was just a small component this project it's finished as it is. Although if I learn something new that I can apply here I may come back to it.
 
 ### Useful resources
 
-**_Pending_**
+-https://fonts.google.com/specimen/Figtree
+-https://www.figma.com/
+-https://getbem.com/
 
 ## Author
 
@@ -49,4 +57,4 @@ T**_Pending_**
 
 ## Acknowledgments
 
-**_Pending_**
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
